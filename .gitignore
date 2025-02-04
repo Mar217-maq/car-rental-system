@@ -1,0 +1,35 @@
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+build/
+
+# Configuration files
+application/config.py
+database/db_connection.py
+
+# Virtual environment
+venv/
+env/
+
+# IDE specific files
+.idea/
+
+# Compiled files
+*.so
+*.o
+*.a
+*.out
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
